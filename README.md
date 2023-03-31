@@ -12,3 +12,5 @@ A graphical representation of the current weather conditions, such as an icon th
 A forecast for the upcoming days, including the high and low temperatures and weather conditions
 The ability to switch between different units of measurement such as Celsius and Fahrenheit
 Overall, the weather app created using HTML, CSS, and JavaScript provides users with an easy-to-use and accessible way to stay up-to-date with weather conditions for any location.
+
+Show some ❤️ by starring 🌟 the repository!
